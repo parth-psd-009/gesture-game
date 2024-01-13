@@ -1,1 +1,3 @@
-##Gesture Game
+## Gesture Game
+Install the dependencies 
+Run python 
