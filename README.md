@@ -1,3 +1,3 @@
 ## Gesture Game
-Install the dependencies\n
-Run python 
+- Install the dependencies
+- Run python 
